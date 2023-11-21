@@ -21,4 +21,4 @@ All the icons and logos used for this project are in the [images](./images/) dir
 
 ## Author (solo project)
 
-Johnel Saphiree
+Henry Akinwale
